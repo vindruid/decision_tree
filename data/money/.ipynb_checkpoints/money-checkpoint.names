@@ -1,0 +1,7 @@
+No, Yes
+age : continuous
+education : continuous
+relationship: 0, 1, 2
+race : 0, 1
+sex : 0, 1
+hoursperweek : continuous
